@@ -1,5 +1,0 @@
-I am currently trying to write a story because Andrew told me to.
-I feel like I am doing fairly well.
-------------------------------------
-I am now being told to edit this file so i can show off the new commands i learned on git.
-I will now upload this to my online storage.
